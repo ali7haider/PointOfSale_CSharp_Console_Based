@@ -1,0 +1,5 @@
+Ali,1234,Admin
+Haider,1234,Cos
+Haider,1234,Customer
+Nasir,1122,Customer
+Ali,1122,User

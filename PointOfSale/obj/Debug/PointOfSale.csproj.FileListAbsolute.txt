@@ -1,0 +1,7 @@
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe.config
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\PointOfSale\PointOfSale\bin\Debug\PointOfSale.exe
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\PointOfSale\PointOfSale\bin\Debug\PointOfSale.pdb
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.AssemblyReference.cache
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\PointOfSale\PointOfSale\obj\Debug\PointOfSale.csproj.CoreCompileInputs.cache
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\PointOfSale\PointOfSale\obj\Debug\PointOfSale.exe
+D:\Study\Semester 2\Object Oriented Programming\6 Tasks Week 5\PointOfSale\PointOfSale\obj\Debug\PointOfSale.pdb

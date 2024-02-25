@@ -1,0 +1,3 @@
+Apple,Fruit,50,43,1
+Orange,Fruit,32,23,1
+Banna,Fruit,45,67,3
